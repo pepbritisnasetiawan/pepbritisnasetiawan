@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pepbritisnasetiawan
-- 👀 I’m interested in python, kotlin Android development and Machine Learning
-- 🌱 I’m currently learning developing android app with kotlin
-- 💞️ I’m looking to collaborate on Android Development
+- 👀 I’m interested in Web Development and Cyber Security
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me : pepbritisnasetiawan@gmail.com or @febrian_tisna (twitter)
 
 <!---
